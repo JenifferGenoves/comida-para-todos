@@ -10,10 +10,7 @@ import close from '../images/iconos/close.png'
 import instagram from '../images/iconos/instagram.png'
 import facebook from '../images/iconos/facebook.png'
 import twitter from '../images/iconos/twitter.png'
-<<<<<<< HEAD
-=======
 import logo from '../images/Donate-Food/logo.png';
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
 
 
 const FoodsForm = () => {
@@ -132,25 +129,6 @@ const FoodsForm = () => {
               <div className="modal-dialog modal-dialog-centered modal-xl">
 
                 <div className="modal-content">
-<<<<<<< HEAD
-                  <a className='close-modal' data-dismiss="modal"><img src={close}></img></a>
-                  <img className='img-modal' src={Modal} alt="gracias por aportar" />
-                  <div className='ctn-modal'>
-                    <h1>¡Gracias por tu aporte, nos comunicaremos contigo!</h1>
-                    <h4>Te recordamos que las Donaciones de Alimentos no son monetarias.</h4>
-
-                    <div>
-                      <h2>Comparte en tus Redes Sociales</h2>
-                      <a href="https://www.instagram.com/comida_para_todos_cl/" target="_blank" rel="noopener noreferrer">
-                        <img src={instagram} className="instagram" alt="instagram " />
-                      </a>
-                      <a href="https://www.facebook.com/Comida-para-Todos-100133851719302" target="_blank" rel="noopener noreferrer">
-                        <img src={facebook} className="facebook" alt="logo-facebook" />
-                      </a>
-                      <a href="https://twitter.com/ChileComida" target="_blank" rel="noopener noreferrer">
-                        <img src={twitter} className="twitter" alt="logo-twitter" />
-                      </a>
-=======
                   <img className='img-modal' src={Modal} alt="gracias por aportar" />
                   <div className='ctn-modal'>
                     <a className='close-modal' data-dismiss="modal"><img src={close}></img></a>
@@ -174,7 +152,6 @@ const FoodsForm = () => {
                         </a>
                       </div>
 
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
                     </div>
                   </div>
                 </div>
@@ -185,11 +162,7 @@ const FoodsForm = () => {
           </div>
         </div>
       </form>
-<<<<<<< HEAD
-    </div>
-=======
     </div >
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
 
   );
 };

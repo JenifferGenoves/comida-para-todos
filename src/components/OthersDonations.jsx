@@ -27,7 +27,7 @@ const OthersDonations = () => {
 
               <div className="col-md-4">
                 <div className="card mb-2">
-                  <a href="/voluntary">
+                  <a href="/donate/beVolunteer">
                     <p className='carousel-caption3'>Hazte</p>
                     <h2 className='carousel-caption4'>Voluntario</h2>
                     <img className="card-img-top" src={Voluntariado} alt="Voluntariado" />

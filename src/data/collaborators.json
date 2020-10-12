@@ -1,44 +1,6 @@
 {
   "collaborators": [
     {
-<<<<<<< HEAD
-      "name": "Cafe San Juan",
-      "img": "https://i.imgur.com/Bhl6dpS.jpg"
-    },
-    {
-      "name": "La Caperucita y El Lobo",
-      "img": "https://i.imgur.com/dNN4pSw.jpg"
-    },
-    {
-      "name": "Colab",
-      "img": "https://i.imgur.com/B2DApe4.jpg"
-    },
-    {
-      "name": "EcoPass",
-      "img": "https://i.imgur.com/D8tT0Ef.jpg"
-    },
-    {
-      "name": "Foodies",
-      "img": "https://i.imgur.com/SDOa4sV.png"
-    },
-    {
-      "name": "Fundación Gastronomía Social",
-      "img": "https://i.imgur.com/62Lv4y6.jpg"
-    },
-    {
-      "name": "99",
-      "img": "https://i.imgur.com/asDdnrq.jpg"
-    },
-    {
-      "name": "Municipalidad Antofagasta",
-      "img": "https://i.imgur.com/RAKnvs6.jpg"
-    },
-    {
-      "name": "BOA",
-      "img": "https://i.imgur.com/m7V3NEg.jpg"
-    },
-    {
-=======
       "num": 0,
       "name": "Cafe San Juan",
       "img": "https://i.imgur.com/Bhl6dpS.jpg",
@@ -94,87 +56,10 @@
     },
     {
       "num": 9,
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
       "name": "Contenedor",
       "img": "https://i.imgur.com/emLnOzc.jpg"
     },
     {
-<<<<<<< HEAD
-      "name": "Estudio Enoki",
-      "img": "https://i.imgur.com/r8DtWx1.jpg"
-    },
-    {
-      "name": "Fundación Cultiva",
-      "img": "https://i.imgur.com/YUDNcV5.jpg"
-    },
-    {
-      "name": "La cava del sommelier",
-      "img": "https://i.imgur.com/Tpfd6Af.jpg"
-    },
-    {
-      "name": "Corporación Gastronómica La Chimba",
-      "img": "https://i.imgur.com/K3lQgcg.jpg"
-    },
-    {
-      "name": "Con Todos La Pintana",
-      "img": "https://i.imgur.com/B0lLR5H.jpg"
-    },
-    {
-      "name": "LAND",
-      "img": "https://i.imgur.com/MP4va5s.jpg"
-    },
-    {
-      "name": "Las Condenadas",
-      "img": "https://i.imgur.com/pnyZSY1.jpg"
-    },
-    {
-      "name": "ñam",
-      "img": "https://i.imgur.com/ttB9VVB.jpg"
-    },
-    {
-      "name": "Nosso Prato",
-      "img": "https://i.imgur.com/AIQDnmt.jpg"
-    },
-    {
-      "name": "Social Gastronomy",
-      "img": "https://i.imgur.com/ezCOtZI.jpg"
-    },
-    {
-      "name": "Mano de Chef",
-      "img": "https://i.imgur.com/KqxMagk.jpg"
-    },
-    {
-      "name": "Pebre",
-      "img": "https://i.imgur.com/EjaOKox.jpg"
-    },
-    {
-      "name": "Puerto Claro",
-      "img": "https://i.imgur.com/v0fvnwC.jpg"
-    },
-    {
-      "name": "Comedor Común Provisiones",
-      "img": "https://i.imgur.com/p5EOFX3.png"
-    },
-    {
-      "name": "Rossonero",
-      "img": "https://i.imgur.com/0P1Nyue.jpg"
-    },
-    {
-      "name": "13 Radios",
-      "img": "https://i.imgur.com/zrHlI8c.png"
-    },
-    {
-      "name": "Taller Mecera",
-      "img": "https://i.imgur.com/u5RsE3V.jpg"
-    },
-    {
-      "name": "Ambrosia Bistro",
-      "img": "https://i.imgur.com/LoVsxZo.jpg"
-    },
-    {
-      "name": "Aurora",
-      "img": "https://i.imgur.com/63Mjxdj.jpg"
-=======
       "num": 10,
       "name": "Estudio Enoki",
       "img": "https://i.imgur.com/r8DtWx1.jpg",
@@ -287,7 +172,6 @@
       "name": "Aurora",
       "img": "https://i.imgur.com/63Mjxdj.jpg",
       "url": "http://www.auroracocina.cl/"
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
     }
   ]
 }

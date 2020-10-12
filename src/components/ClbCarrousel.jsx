@@ -1,15 +1,4 @@
 import React from 'react';
-<<<<<<< HEAD
-import CafeSanJuan from '../images/cafe-san-juan 1.png';
-import Foodies from '../images/foodies 1.png';
-import Cultiva from '../images/logo-fundacion-cultiva 1.png';
-import Ñam from '../images/logo-niam 1.png';
-import Aurora from '../images/colaboradores/aurora-logo.jpg';
-import Caperucita from '../images/colaboradores/caperucita-y-el-lobo.jpg';
-import Colab from '../images/colaboradores/colab-logo.jpg';
-import Logo99 from '../images/colaboradores/logo-99.jpg';
-import Chimba from '../images/colaboradores/logo-la-chimba.jpg';
-=======
 import { collaborators } from '../data/collaborators.json';
 // import CafeSanJuan from '../images/cafe-san-juan 1.png';
 // import Foodies from '../images/foodies 1.png';
@@ -38,7 +27,6 @@ import { collaborators } from '../data/collaborators.json';
 //     </div>
 //   })
 // }
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
 
 const ClbCarrousel = () => {
   return (
@@ -49,25 +37,16 @@ const ClbCarrousel = () => {
           <li data-target="#multi-item-example" data-slide-to="0" className="active"></li>
           <li data-target="#multi-item-example" data-slide-to="1"></li>
           <li data-target="#multi-item-example" data-slide-to="2"></li>
-<<<<<<< HEAD
-=======
           <li data-target="#multi-item-example" data-slide-to="3"></li>
           <li data-target="#multi-item-example" data-slide-to="4"></li>
           <li data-target="#multi-item-example" data-slide-to="5"></li>
           <li data-target="#multi-item-example" data-slide-to="6"></li>
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
         </ol>
 
         <div className="carousel-inner" role="listbox">
           <div className="carousel-item active">
 
             <div className="row">
-<<<<<<< HEAD
-              <div className="col-md-4">
-                <div className="">
-                  <a href="https://www.instagram.com/cafesanjuansantiago_oficial/" target="_blank" rel="noopener noreferrer" >
-                    <img className="d-block w-1002" src={CafeSanJuan} alt="Cafe San Juan" />
-=======
               <div className="col-md-3">
                 <div className="">
                   <a href={collaborators[0].url} target="_blank" rel="noopener noreferrer" >
@@ -192,37 +171,22 @@ const ClbCarrousel = () => {
                 <div className="">
                   <a href={collaborators[13].url} target="_blank" rel="noopener noreferrer">
                     <img className="d-block w-1002" src={collaborators[13].img} alt={collaborators[13].name} />
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
                   </a>
                 </div>
               </div>
 
-<<<<<<< HEAD
-              <div className="col-md-4 clearfix d-none d-md-block">
-                <div className="">
-                  <a href="https://foodies.cl/store/index.php" target="_blank" rel="noopener noreferrer">
-                    <img className="d-block w-1002" src={Foodies} alt="Foodies" />
-=======
               <div className="col-md-3 clearfix d-none d-md-block">
                 <div className="">
                   <a href={collaborators[14].url} target="_blank" rel="noopener noreferrer">
                     <img className="d-block w-1002" src={collaborators[14].img} alt={collaborators[14].name} />
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
                   </a>
                 </div>
               </div>
 
-<<<<<<< HEAD
-              <div className="col-md-4 clearfix d-none d-md-block">
-                <div className="">
-                  <a href="https://www.cultiva.cl/?lang=en" target="_blank" rel="noopener noreferrer">
-                    <img className="d-block w-1002" src={Cultiva} alt="Cultiva" />
-=======
               <div className="col-md-3 clearfix d-none d-md-block">
                 <div className="">
                   <a href={collaborators[15].url} target="_blank" rel="noopener noreferrer">
                     <img className="d-block w-1002" src={collaborators[15].img} alt={collaborators[15].name} />
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
                   </a>
                 </div>
               </div>
@@ -232,12 +196,6 @@ const ClbCarrousel = () => {
 
           <div className="carousel-item">
             <div className="row">
-<<<<<<< HEAD
-              <div className="col-md-4">
-                <div className="">
-                  <a href="http://niam.cl/" target="_blank" rel="noopener noreferrer" >
-                    <img className="d-block w-1002" src={Ñam} alt="Ñam" />
-=======
 
               <div className="col-md-3 clearfix d-none d-md-block">
                 <div className="">
@@ -251,35 +209,18 @@ const ClbCarrousel = () => {
                 <div className="">
                   <a href={collaborators[17].url} target="_blank" rel="noopener noreferrer">
                     <img className="d-block w-1002" src={collaborators[17].img} alt={collaborators[17].name} />
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
                   </a>
                 </div>
               </div>
 
-<<<<<<< HEAD
-              <div className="col-md-4 clearfix d-none d-md-block">
-                <div className="">
-                  <a href="http://www.auroracocina.cl/" target="_blank" rel="noopener noreferrer">
-                    <img className="d-block w-1002" src={Aurora} alt="Aurora" />
-=======
               <div className="col-md-3 clearfix d-none d-md-block">
                 <div className="">
                    <a href={collaborators[18].url} target="_blank" rel="noopener noreferrer">
                     <img className="d-block w-1002" src={collaborators[18].img} alt={collaborators[18].name} />
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
                   </a>
                 </div>
               </div>
 
-<<<<<<< HEAD
-              <div className="col-md-4 clearfix d-none d-md-block">
-                <div className="">
-                  <a href="http://www.lacaperucitayellobo.cl/" target="_blank" rel="noopener noreferrer">
-                    <img className="d-block w-1002" src={Caperucita} alt="La Caperucita y el Lobo" />
-                  </a>
-                </div>
-              </div>
-=======
               <div className="col-md-3 clearfix d-none d-md-block">
                 <div className="">
                   <a href={collaborators[19].url} target="_blank" rel="noopener noreferrer">
@@ -288,43 +229,20 @@ const ClbCarrousel = () => {
                 </div>
               </div>
 
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
             </div>
           </div>
 
           <div className="carousel-item">
             <div className="row">
-<<<<<<< HEAD
-              <div className="col-md-4">
-                <div className="">
-                  <a href='https://colab.uc.cl/es/inicio/' target="_blank" rel="noopener noreferrer">
-                    <img className="d-block w-1002" src={Colab} alt="Colab" />
-=======
 
               <div className="col-md-3 clearfix d-none d-md-block">
                 <div className="">
                   <a href={collaborators[20].url} target="_blank" rel="noopener noreferrer">
                     <img className="d-block w-1002" src={collaborators[20].img} alt={collaborators[20].name} />
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
                   </a>
                 </div>
               </div>
 
-<<<<<<< HEAD
-              <div className="col-md-4 clearfix d-none d-md-block">
-                <div className="">
-                  <a href='https://99restaurante.com/' target="_blank" rel="noopener noreferrer"><img className="d-block w-1002" src={Logo99} alt="Logo99" /></a>
-                </div>
-              </div>
-
-              <div className="col-md-4 clearfix d-none d-md-block">
-                <div className="">
-                  <a href='https://lachimba.org/' target="_blank" rel="noopener noreferrer">
-                    <img className="d-block w-1002" src={Chimba} alt="La Chimba" />
-                  </a>
-                </div>
-              </div>
-=======
               <div className="col-md-3">
                 <div className="">
                   <a href={collaborators[21].url} target="_blank" rel="noopener noreferrer">
@@ -387,17 +305,12 @@ const ClbCarrousel = () => {
                 </div>
               </div>
 
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
             </div>
           </div>
 
         </div>
       </div>
-<<<<<<< HEAD
-    </div>
-=======
     </div >
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
   );
 }
 export default ClbCarrousel;

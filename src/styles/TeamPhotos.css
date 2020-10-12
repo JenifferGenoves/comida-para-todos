@@ -15,12 +15,8 @@
 .container-radio {
     display: flex;
     margin-top: 1%;
-<<<<<<< HEAD
-    margin-right: 25%;
-=======
     margin-right: 7%;
     margin-bottom: 20px;
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
 }
 
 .radio-btn-filter {
@@ -67,11 +63,7 @@
     justify-content: space-around;
     align-content: center;
     margin: 3%;
-<<<<<<< HEAD
-    width: 93vw;
-=======
     width: 69.7vw;
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
 }
 
 .team {
@@ -79,11 +71,7 @@
 }
 
 .teamimg {
-<<<<<<< HEAD
-    width: 207px;
-=======
     width: 16.17vw;
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
     border-radius: 8px;
 }
 
@@ -113,13 +101,8 @@
     padding: 10px 20px 10px 20px;
     color: #FFF;
     background-color: #34616F;
-<<<<<<< HEAD
-    width: 207px;
-    top: 118.6%;
-=======
     width: 16.17vw;
     top: 135.2%;
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
     color: #FFF;
     opacity: 0.85;
     border-radius: 0px 0px 8px 8px;
@@ -131,13 +114,8 @@
     padding: 10px 20px 10px 20px;
     color: #FFF;
     background-color: #34616F;
-<<<<<<< HEAD
-    width: 207px;
-    top: 149.6%;
-=======
     width: 16.17vw;
     top: 173.7%;
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
     color: #FFF;
     opacity: 0.85;
     border-radius: 0px 0px 8px 8px;
@@ -149,19 +127,12 @@
     padding: 10px 20px 10px 20px;
     color: #FFF;
     background-color: #34616F;
-<<<<<<< HEAD
-    width: 207px;
-    top: 180.7%;
-=======
     width: 16.17vw;
     top: 212.3%;
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
     color: #FFF;
     opacity: 0.85;
     border-radius: 0px 0px 8px 8px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-<<<<<<< HEAD
-=======
 }
 
 @media (min-width: 1920px) and (max-width: 2560px) {
@@ -190,5 +161,4 @@
         padding: 1%;
         top: 202.5%;
     }
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
 }

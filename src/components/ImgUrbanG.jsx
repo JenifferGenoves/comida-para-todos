@@ -1,10 +1,6 @@
 /*Aquí va la imagen de la vista Huertos urbanos */
 import React, { Fragment } from 'react';
 import BtnProject from './BtnProject';
-<<<<<<< HEAD
-import GardenImg from '../images/HuertoUrbano.png';
-=======
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
 import '../styles/urbanGarden.css'
 
 const ImgPage = () => {
@@ -12,10 +8,6 @@ const ImgPage = () => {
   return (
     <Fragment>
       <div className='gardenImg'>
-<<<<<<< HEAD
-        <img src={GardenImg} className="gardenImg" alt="garden" />
-=======
->>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
         <div className='gardenDiv'>
           <hr className='gardenLine' />
           <p>Dona</p>
