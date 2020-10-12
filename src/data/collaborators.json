@@ -1,6 +1,7 @@
 {
   "collaborators": [
     {
+<<<<<<< HEAD
       "name": "Cafe San Juan",
       "img": "https://i.imgur.com/Bhl6dpS.jpg"
     },
@@ -37,10 +38,68 @@
       "img": "https://i.imgur.com/m7V3NEg.jpg"
     },
     {
+=======
+      "num": 0,
+      "name": "Cafe San Juan",
+      "img": "https://i.imgur.com/Bhl6dpS.jpg",
+      "url": "https://www.instagram.com/cafesanjuansantiago_oficial/?hl=en"
+    },
+    {
+      "num": 1,
+      "name": "La Caperucita y El Lobo",
+      "img": "https://i.imgur.com/dNN4pSw.jpg",
+      "url": "http://www.lacaperucitayellobo.cl/"
+    },
+    {
+      "num": 2,
+      "name": "Colab",
+      "img": "https://i.imgur.com/B2DApe4.jpg",
+      "url": "http://innovacionsocial.uc.cl/es/inicio/"
+    },
+    {
+      "num": 3,
+      "name": "EcoPass",
+      "img": "https://i.imgur.com/D8tT0Ef.jpg",
+      "url": "https://ecopass.cl/"
+    },
+    {
+      "num": 4,
+      "name": "Foodies",
+      "img": "https://i.imgur.com/SDOa4sV.png",
+      "url": "https://foodies.cl/store/index.php"
+    },
+    {
+      "num": 5,
+      "name": "Fundación Gastronomía Social",
+      "img": "https://i.imgur.com/62Lv4y6.jpg",
+      "url": "https://www.gastronomia.social/"
+    },
+    {
+      "num": 6,
+      "name": "99",
+      "img": "https://i.imgur.com/asDdnrq.jpg",
+      "url": "https://99restaurante.com/"
+    },
+    {
+      "num": 7,
+      "name": "Municipalidad Antofagasta",
+      "img": "https://i.imgur.com/RAKnvs6.jpg",
+      "url": "municipalidaddeantofagasta.cl"
+    },
+    {
+      "num": 8,
+      "name": "BOA",
+      "img": "https://i.imgur.com/m7V3NEg.jpg",
+      "url": "https://boasantiago.cl/"
+    },
+    {
+      "num": 9,
+>>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
       "name": "Contenedor",
       "img": "https://i.imgur.com/emLnOzc.jpg"
     },
     {
+<<<<<<< HEAD
       "name": "Estudio Enoki",
       "img": "https://i.imgur.com/r8DtWx1.jpg"
     },
@@ -115,6 +174,120 @@
     {
       "name": "Aurora",
       "img": "https://i.imgur.com/63Mjxdj.jpg"
+=======
+      "num": 10,
+      "name": "Estudio Enoki",
+      "img": "https://i.imgur.com/r8DtWx1.jpg",
+      "url": "https://www.behance.net/estudioenoki/"
+    },
+    {
+      "num": 11,
+      "name": "Fundación Cultiva",
+      "img": "https://i.imgur.com/YUDNcV5.jpg",
+      "url": "https://www.cultiva.cl/"
+    },
+    {
+      "num": 12,
+      "name": "La cava del sommelier",
+      "img": "https://i.imgur.com/Tpfd6Af.jpg",
+      "url": "https://cavadelsommelier.cl/"
+    },
+    {
+      "num": 13,
+      "name": "Corporación Gastronómica La Chimba",
+      "img": "https://i.imgur.com/K3lQgcg.jpg",
+      "url": "https://lachimba.org/"
+    },
+    {
+      "num": 14,
+      "name": "Con Todos La Pintana",
+      "img": "https://i.imgur.com/B0lLR5H.jpg",
+      "url": "https://www.pintana.cl/"
+    },
+    {
+      "num": 15,
+      "name": "LAND",
+      "img": "https://i.imgur.com/MP4va5s.jpg",
+      "url": "https://agencia.land/"
+    },
+    {
+      "num": 16,
+      "name": "Las Condenadas",
+      "img": "https://i.imgur.com/pnyZSY1.jpg",
+      "url": "https://www.instagram.com/lascondenadas/"
+    },
+    {
+      "num": 17,
+      "name": "ñam",
+      "img": "https://i.imgur.com/ttB9VVB.jpg",
+      "url": "http://niam.cl/"
+    },
+    {
+      "num": 18,
+      "name": "Nosso Prato",
+      "img": "https://i.imgur.com/AIQDnmt.jpg",
+      "url": "https://www.nossoprato.org/"
+    },
+    {
+      "num": 19,
+      "name": "Social Gastronomy",
+      "img": "https://i.imgur.com/ezCOtZI.jpg",
+      "url": "https://www.socialgastronomy.org/"
+    },
+    {
+      "num": 20,
+      "name": "Mano de Chef",
+      "img": "https://i.imgur.com/KqxMagk.jpg",
+      "url": "https://www.manodechef.cl/"
+    },
+    {
+      "num": 21,
+      "name": "Pebre",
+      "img": "https://i.imgur.com/EjaOKox.jpg",
+      "url": "http://www.pebrechile.cl/"
+    },
+    {
+      "num": 22,
+      "name": "Puerto Claro",
+      "img": "https://i.imgur.com/v0fvnwC.jpg",
+      "url": "http://www.puertoclarovalpo.cl/"
+    },
+    {
+      "num": 23,
+      "name": "Comedor Común Provisiones",
+      "img": "https://i.imgur.com/p5EOFX3.png",
+      "url": "https://comedorcomun.cl/"
+    },
+    {
+      "num": 24,
+      "name": "Rossonero",
+      "img": "https://i.imgur.com/0P1Nyue.jpg",
+      "url": "https://www.rossonerofoods.com/en"
+    },
+    {
+      "num": 25,
+      "name": "13 Radios",
+      "img": "https://i.imgur.com/zrHlI8c.png",
+      "url": "https://www.tele13radio.cl/"
+    },
+    {
+      "num": 26,
+      "name": "Taller Macera",
+      "img": "https://i.imgur.com/u5RsE3V.jpg",
+      "url": "https://www.instagram.com/tallermacera/?hl=en"
+    },
+    {
+      "num": 27,
+      "name": "Ambrosia Bistro",
+      "img": "https://i.imgur.com/LoVsxZo.jpg",
+      "url": "https://www.ambrosiabistro.cl/"
+    },
+    {
+      "num": 28,
+      "name": "Aurora",
+      "img": "https://i.imgur.com/63Mjxdj.jpg",
+      "url": "http://www.auroracocina.cl/"
+>>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
     }
   ]
 }

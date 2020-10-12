@@ -11,7 +11,11 @@
     position: absolute;
     width: 437px;
     height: 513px;
+<<<<<<< HEAD
     left: 923px;
+=======
+    left: 65.3vw;
+>>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
     top: 199px;
     border-radius: 8px 8px 8px 8px;
     box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.25);
@@ -74,7 +78,16 @@
     left: 59.70%;
     display: block;
     appearance: none;
+<<<<<<< HEAD
     border-radius: 4px;
+=======
+    
+}
+
+.formButton:hover {
+    background-color: #d93400;
+    text-decoration: none;
+>>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
 }
 
 .lbl-form {
@@ -91,4 +104,8 @@
     display: grid;
     position: relative;
     width: 100%;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a

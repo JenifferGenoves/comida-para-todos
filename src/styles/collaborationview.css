@@ -14,7 +14,11 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
+<<<<<<< HEAD
     width: 99.9vw;
+=======
+    width: 105.7vw;
+>>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
     padding: 48px;
 }
 
@@ -29,6 +33,10 @@
     margin-bottom: 2em;
 }
 .cnt-filter{
+<<<<<<< HEAD
+=======
+    width: 105.7vw;
+>>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
     position: relative;
     display: flex;
     padding: 80px 80px 0;

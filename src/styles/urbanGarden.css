@@ -1,7 +1,12 @@
 /* Section donate */
+<<<<<<< HEAD
 
 .gardenImg {
     background-image: url('../images/HuertoUrbano.png');
+=======
+.gardenImg {
+    background-image: url('../images/DonaHuertos/Portada2.png');
+>>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
     background-repeat: no-repeat;
     width: 100%;
     height: 798px;
@@ -12,6 +17,72 @@
     flex-flow: row wrap;
 }
 
+<<<<<<< HEAD
+=======
+.teacherImg {
+  background-image: url('../images/DonaClase/Portada.png');
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 798px;
+  color: #FFFFFF;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  flex-flow: row wrap;
+}
+
+.skillImg {
+  background-image: url('../images/DonaHabilidad/Portada.png');
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 798px;
+  color: #FFFFFF;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  flex-flow: row wrap;
+}
+
+.voluntaryImg {
+  background-image: url('../images/HazteVol/Portada.png');
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 798px;
+  color: #FFFFFF;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  flex-flow: row wrap;
+}
+
+
+
+.gardenDiv {
+  display: flex;
+  flex-direction: column;
+  padding-left: 80px;
+}
+
+.gardenLine {
+  background: #FFFFFF;
+  width: 90px;
+  border: 0 none;
+  height: 2px;
+  margin-left: 0px;
+  margin-top: 85px;
+}
+
+.text-garden {
+  padding-top: 24px;
+  width: 617px;
+  height: 136px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.25;
+  line-height: 26px;
+}
+
+>>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
 .btn-project {
     background-color: #F25828;
     color: #F2F2F2;
@@ -30,6 +101,7 @@
     text-decoration: none;
 }
 
+<<<<<<< HEAD
 
 /*   .cnt-payment{
     display: flex;
@@ -178,3 +250,48 @@
     margin-right: 80px;
     margin-left: 80px;
   } */
+=======
+.textButtons {
+  margin-top: 80px;
+  display: flex;
+}
+
+/* container collaborators  */
+
+.ctn-collaboration {
+  padding: 80px;
+}
+
+.CollaborationSection {
+  display: flex;
+}
+
+.img-clb {
+  border: 1px solid black;
+  border-radius: 8px;
+}
+
+.textContainer {
+  padding-left: 80px;
+  padding-top: 54px;
+  text-align: left;
+}
+
+.paragraph {
+  padding-top: 37px;
+  text-align: left;
+  width: 603px;
+  height: 99px;
+  line-height: 26.5px;
+}
+
+.garden {
+  width: 590px;
+  height: 404px;
+  border-radius: 8px;
+}
+
+
+
+
+>>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a

@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "comida-paratodos",
+    "comida-para-todos": "comida-paratodos"
+  }
+}

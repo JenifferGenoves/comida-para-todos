@@ -2,12 +2,21 @@
     
     .form-cont {
         width: 70%;
+<<<<<<< HEAD
         height: 430px;
+=======
+        height: 52vh;
+        padding-bottom: 5vh;
+>>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
         font-family: 'Montserrat', sans-serif;
         font-weight: 400;
         border-radius: 8px 8px 8px 8px;
         background: #FFF;
         box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.25);
+<<<<<<< HEAD
+=======
+        margin-bottom: 5vh;
+>>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
     }
     
     .formContact {
@@ -37,7 +46,11 @@
     }
     
     .items-Cont {
+<<<<<<< HEAD
         margin: 3% 25% 0% 0%;
+=======
+        margin: 5% 25% 0% 0%;
+>>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
         height: 10%;
     }
     
@@ -66,12 +79,19 @@
         height: 50px;
         font-weight: 700;
         font-size: 20px;
+<<<<<<< HEAD
         margin-left: 160px;
         display: block;
         appearance: none;
         border-radius: 4px;
         margin-left: 836px;
         margin-top: 25px;
+=======
+        display: block;
+        appearance: none;
+        border-radius: 4px;
+        margin-left: 82%;
+>>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
     }
     
     .spacectc::placeholder {
@@ -90,23 +110,37 @@
     }
     
     .txt-title {
+<<<<<<< HEAD
         margin-top: -58px;
+=======
+        margin-top: -48px;
+>>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
         margin-right: 340px;
     }
     
     .spacectc2 {
         border: 1px solid #CACACA;
         border-radius: 8px;
+<<<<<<< HEAD
         padding-bottom: 150px;
         background: #fff;
         margin-top: -30px;
+=======
+        padding-bottom: 100px;
+        background: #fff;
+        margin-top: -5%;
+>>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
         margin-right: 30px;
     }
     
     .contact-Img {
         background-image: url(../images/1copia.jpg);
         background-repeat: no-repeat;
+<<<<<<< HEAD
         width: 100%;
+=======
+        width: 100vw;
+>>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
         height: 798px;
         background-size: cover;
         display: flex;
@@ -142,8 +176,51 @@
     
     .pf-link {
         color: #F25828;
+<<<<<<< HEAD
         margin-left: 790px;
         font-size: 14px;
         text-decoration: underline;
         font-weight: bold;
+=======
+        margin-left: 75.2%;
+        font-size: 14px;
+        text-decoration: underline;
+        font-weight: bold;
+    }
+    
+    @media (min-width: 1920px) and (max-width: 2560px) {
+        label {
+            margin-bottom: 1rem;
+            font-size: 1.2rem;
+        }
+        .itemsContact {
+            margin: 4% 25% 0% 0%;
+            height: 14%;
+        }
+        .btn-Cont {
+            margin-top: -90px;
+        }
+        .formBtn {
+            /* Botón siguiente */
+            margin-left: 86%;
+        }
+        .txt-title {
+            margin-top: -65px;
+            margin-left: -40%;
+        }
+        .spacectc2 {
+            padding-bottom: 140px;
+            margin-top: -5%;
+            margin-left: -40%;
+            margin-right: 13%;
+            padding-left: 1.5%;
+        }
+        .icons-c {
+            height: 40px;
+        }
+        .pf-link {
+            margin-left: 76.5%;
+            font-size: 1.2rem;
+        }
+>>>>>>> 2c2000b43fe24b86945243f98d39b316c597498a
     }
