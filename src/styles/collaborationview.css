@@ -1,0 +1,39 @@
+.col-sm-2{
+    /* max-height: 150px; */
+    flex: -1 0 25;
+    max-width: 20%;
+}    
+.contorn{
+    border: 1px solid black;
+    border-radius: 8px;
+    margin: 0 30px 80px;
+    height: 12vw;
+}   
+.container-collaborators {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 99.9vw;
+    padding: 48px;
+}
+
+.radio-filter{
+    width: 179px;
+    height: 57px;
+    border: 1px solid black;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    margin-bottom: 2em;
+}
+.cnt-filter{
+    position: relative;
+    display: flex;
+    padding: 80px 80px 0;
+    justify-content: space-between;
+    padding-bottom: 32px;
+}
+
+/* HOVER */

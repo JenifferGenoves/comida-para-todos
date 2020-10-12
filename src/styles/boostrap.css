@@ -1,0 +1,187 @@
+/* Carrousel Boostrap */
+
+.w-100 {
+  width: 599px !important;
+  border-radius: 8px;
+  height: 402px;
+}
+
+.carousel-caption {
+  right: 0%;
+  bottom: 0px;
+  left: 0%;
+  color: #fff;
+  background-color: rgba(31, 92, 112, 0.85);
+  border-radius: 0 0 8px 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.carousel-caption2 {
+  position: absolute;
+  bottom: 74%;
+  font-weight: 800;
+  font-size: 3.125em;
+  z-index: 10;
+  width: 100%;
+  padding-top: 20px;
+  padding-left: 5%;
+  padding-bottom: 20px;
+  color: #fff;
+  text-shadow: 0px 1px 5px rgba(0, 0, 0, 0.5);
+}
+.description{ 
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: initial;
+  font-size: 1.15em;
+  margin-bottom: 5px;
+}
+
+.carousel-indicators {
+  right: 0%;
+  bottom: -20px;
+}
+
+.carousel-control-next {
+  right: 2%;
+}
+
+.carousel-control-prev {
+  left: 2%;
+}
+
+.arrow-carrousel {
+  width: 70px;
+  height: 70px;
+}
+
+.carousel-inner {
+  z-index: 0;
+}
+
+/* Collaboraitors carrousel */
+.w-1002 {
+  padding: 15px;
+  width: 170px !important;
+  height: 110px;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+.carousel-item.active {
+  z-index: 1;
+  opacity: 1;
+}
+.active2 {
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 80px;
+}
+.arrow {
+  left: 0;
+  bottom: 45%;
+}
+.arrow1 {
+  right: 0;
+  bottom: 45%;
+}
+.carousel-multi-item .carousel-indicators li {
+  height: 1.25rem;
+  width: 1.25rem;
+  max-width: 1.25rem;
+  background-color: #ffffff;
+  border: 1px solid #F25828;
+  margin-bottom: -3.75rem;
+  border-radius: 50%;
+}
+.mt-4, .my-4 {
+  margin-top: 0 !important;
+  padding-bottom: 80px;
+}
+.mb-4, .my-4 {
+  margin-bottom: 0 !important;
+}
+.container{
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 80px;
+}
+.carousel{
+  padding-bottom: 20px
+}
+.carousel-multi-item .carousel-indicators li {
+  height: 0.5rem;
+  width: 0.5rem;
+  max-width: 1.25rem;
+  border: 1px solid #F25828;
+  margin-bottom: -3.75rem;
+  border-radius: 50%;
+}
+
+.carousel-caption3, .carousel-caption4 {
+  position: absolute;
+  font-weight: 800;
+  z-index: 10;
+  width: 100%;
+  padding-top: 20px;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 20px;
+  color: #fff;
+  text-shadow: 0px 1px 5px rgba(0, 0, 0, 0.5);
+}
+.carousel-caption3 {
+  bottom: 84%;
+  font-size: 1.875em;
+}
+
+.carousel-caption4 {
+  bottom: 74%;
+  font-size: 3em;
+}
+.carousel-caption5 {
+  position: absolute;
+  right: 0%;
+  bottom: 0px;
+  left: 0%;
+  color: #fff;
+  background-color: rgba(242, 88, 40, 0.85);
+  border-radius: 0 0 8px 8px;
+  padding: 15px;
+  font-size: 1em;
+  width: 365px;
+  height: 206px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+/* Hover */
+
+.carousel-caption5:hover::before {
+  content: 'Dona Aqui';
+  position: absolute;
+  align-items: center;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border: 103px solid #F25828;
+  border-radius: 8px;
+}
+
+/* .carousel-caption5 p:hover:after{
+  background-color:#F25828; 
+  content: 'Dona Aqui';
+} */
+
+.card-img, .card-img-top {
+  width: 365px;
+  height: 545px;
+  border-radius: 8px;
+}
+.card{
+  border: none;
+}
+.mb-2, .my-2 {
+  margin-bottom: 0;
+}

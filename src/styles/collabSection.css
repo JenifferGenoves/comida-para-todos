@@ -1,0 +1,97 @@
+
+/* container other donate */
+
+.read-more {
+    color: #F25828;
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+.footer {
+    color: #F2F2F2;
+    background-color: #1F5C70;
+    /* position: absolute; */
+    bottom: 0;
+    width: 100%;
+    height: 205px;
+}
+
+.container-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 70px;
+    padding-left: 80px;
+    margin-top: 30px;
+}
+
+.container-footer2 {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 70px;
+    padding-left: 80px;
+    align-items: center;
+}
+
+.footerLine {
+    background: #F2F2F2;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+/* container collaborators */
+
+.CollaborationSection {
+    display: flex;
+    /* position: relative; */
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    margin-right: 5%;
+    margin-left: 5%;
+
+}
+.textContainer{
+    /* display: flex;
+    justify-content: flex-end;
+    position: relative;
+    text-align: left;
+    flex-direction: column;
+    flex-grow: initial;
+    flex-wrap: nowrap; */
+ justify-content: flex-end;
+    padding-inline-start: 5%;
+    text-align: left; 
+}
+.collabTitle {
+    display: flex;
+    text-align: center;
+}
+.paragraph{
+    padding-top: 8%;
+}
+
+
+.containerHands {
+
+    position: relative;
+    right: 20%;
+    /* justify-content: right;
+    align-items: center;
+    flex-flow: row wrap;
+ */
+        }
+.hands {
+    width: 400px;
+    height: 304px;
+    border-radius: 8px;
+
+}
+/* .companies {
+    display: none;
+    flex-direction: column;
+    align-items: flex-end;
+    position: absolute;
+    flex-wrap: wrap-reverse;
+    justify-content:space-between;
+ } */

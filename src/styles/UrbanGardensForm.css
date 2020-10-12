@@ -1,0 +1,94 @@
+.form-container {
+    height: 513px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    border-radius: 8px 8px 8px 8px;
+    background: #F2F2F2;
+}
+
+.form {
+    display: flex;
+    position: absolute;
+    width: 437px;
+    height: 513px;
+    left: 923px;
+    top: 199px;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.25);
+}
+
+.title-container {
+    /* Completa tus Datos */
+    height: 64px;
+    width: 437px;
+    background: #34616F;
+    border-radius: 8px 8px 0px 0px;
+}
+
+.items {
+    margin: 3% 25% 0% 0%;
+    height: 10%;
+}
+
+.font-title {
+    position: absolute;
+    left: 10.3%;
+    right: 10.3%;
+    top: 3.9%;
+    bottom: 91.81%;
+    color: white;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.icons {
+    height: 30px;
+    margin-left: 8%;
+}
+
+.form-container input {
+    background: #F2F2F2;
+    margin-bottom: 8px;
+    border: none;
+    border-bottom: 1px solid black;
+    color: black;
+    font-size: 16px;
+}
+
+.formButton {
+    /* Botón siguiente */
+    margin-top: 7%;
+    font-family: 'Be Vietnam', sans-serif;
+    font-style: normal;
+    background-color: #F25828;
+    color: #F2F2F2;
+    border: none;
+    border-radius: 8px;
+    width: 131px;
+    height: 50px;
+    font-weight: 700;
+    font-size: 20px;
+    position: absolute;
+    left: 59.70%;
+    display: block;
+    appearance: none;
+    border-radius: 4px;
+}
+
+.lbl-form {
+    margin-left: 5%;
+}
+
+.space::placeholder {
+    position: relative;
+    font-size: 1em;
+}
+
+.space {
+    margin-left: 20%;
+    display: grid;
+    position: relative;
+    width: 100%;
+}
