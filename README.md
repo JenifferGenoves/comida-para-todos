@@ -1,68 +1,109 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Rediseño Comida Para Todos
 
-## Available Scripts
+## Índice:
 
-In the project directory, you can run:
+* [1. Comida Para Todos.](#1-Comida-Para-Todos)
+* [2. Comenzando a usarla.](#2-Comenzando-a-usarla)
+* [3. Investigación.](#3-Investigación)
+* [4. Proceso de prototipado y diseño.](#4-Proceso-de-Prototipado-y-diseño)
+* [5. Aportes.](#5-Aportes)
+* [6. Despliegue.](#10-Despliegue)
+* [7. Herramientas.](#7-Herramientas)
+* [8. Autoras.](#8-Autoras)
 
-### `npm start`
+***
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Logo](src/images/Readme/3.png)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## 1. Comida Para Todos.
 
-### `npm test`
+**¿Qué es Comida Para Todos?**
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Comida para todos es una plataforma solidaria que nace de la unión de organizaciones sociales, que busca salvaguardar la Seguridad Alimentaria, a través de:
 
-### `npm run build`
+- Generar y distribuir alimentación.
+- Educar en materias de alimentación saludable.
+- Capacitar en materias de gastronomía.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Rediseño Comida Para Todos**
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Puedes conocerla y probarla [aquí](https://comida-paratodos.web.app/).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 2. Comenzando a usarla 🚀
 
-### `npm run eject`
+Este nuevo rediseño de ***Comida Para Todos*** esta implementado como un SPA(*Single Page Aplication*), desarrollada con **React** y desplegada en Hosting **Firebase** para su uso en Desktop a través de cualquier navegador web.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 3. Investigación :busts_in_silhouette:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+En esta etapa pudimos realizar una investigación para conocer más sobre ***Comida para Todos***, y poder visualizar lo que sería el punto de partida para poder comenzar a desarrollar el proyecto, cumpliendo los requerimientos del cliente y teniendo el propósito de alcanzar los objetivos para que la fundación pueda llegar a mayor cantidad de personas y con esto un sinfín de oportunidades para la comunidad.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+En este proceso investigativo realizamos:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Entrevista con Cliente (Conocer objetivos e ideales de ***Comida Para Todos***).
+- Análisis Heurístico (Evalua la usabilidad del sitio actual).
+- Benchmark (Estudio de mercado, directo e indirecto).
+- Entrevista con Usuarios: (Conocer opiniones sobre el sitio actual y encontrar ideas para potenciarlo).
+    - [Anne Carrere](https://drive.google.com/file/d/1PecRQcU9cwgfxkNmqEYRPWdkKLkxk8r5/view)
+    - [Daniel Alfonzo](https://drive.google.com/file/d/1TSiZQgKV1YDS8qR3Uh9BWe2yYANnCpTw/view)
+    - [Matias Carrasco](https://drive.google.com/file/d/1qgdxpoAPZppx7yUh1mZcpMoqlnWHeG0w/view)
+    - [Yanira Flores](https://drive.google.com/file/d/1pYVRCxuhVBrEMKq-IAvme8p_XG9clCtZ/view)
+- User Persona (Personaje ficticio que representa un usuario de la plataforma).
+- Journey Map (Diagrama de interacción de usuarios con la plataforma).
+- Affinity Map (Para categorizar, organizar la información recolectada)
+- Insights (Descubrimientos).
 
-## Learn More
+## 4. Proceso de prototipado y diseño📋
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### Sketch:
+Comenzamos construyendo diferentes Sketch.
+Puedes revisarlo [aquí](https://www.figma.com/file/05HHF7BKZ4ydeePsR6vgSm/Comida-Para-Todos?node-id=1%3A2)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### Prototipo de alta fidelidad:
+El prototipo de alta fidelidad fue diseñado a través de la plataforma que ofrece Figma, dando énfasis en cómo luciría y el funcionamiento planeado.
+Puedes revisarlo [aquí](https://www.figma.com/file/05HHF7BKZ4ydeePsR6vgSm/Comida-Para-Todos?node-id=1060%3A16).
+![Desktop](src/images/Readme/desktop.png)
 
-### Code Splitting
+#### Guia de Estilo
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+![Logo](src/images/Readme/style.jpg)
 
-### Analyzing the Bundle Size
+## 5. Aportes 🧡
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+Al involucrarnos con este proyecto nuestro objetivo principal siempre fue el de mejorar y optimizar ***Comida Para Todos***, para que sus objetivos pudieran no solo llegar a más personas, sino lograr que estas también se involucraran en el proceso.
 
-### Making a Progressive Web App
+Aqui una pequeña lista con los aportes ofrecidos a ***Comida Para Todos***:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+- Posibilidad de no solo donar dinero.
+- Plataforma de pago simple e incorporada en la misma plataforma.
+- Acceso a todos los colaboradores en una presentación más agradable y accesible.
+- Oportunidad de conocer y descubrir las diferentes maneras de *donar*.
+- Información clara y transparente de los métodos de trabajo.
+- Acceso visible a RRSS.
+- Uso de material audiovisual que busca empatizar más con los usuarios.
+- Permite visualizar el equipo que conforma comida para todos, otorgando confianza.
+- Sección de contacto, para dudas o preguntas que quiza no hayan sido contempladas en la plataforma.
 
-### Advanced Configuration
+## 6. Despliegue 📦
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+Puedes acceder al deploy de nuestro proyecto [aquí](https://comida-paratodos.web.app/).
 
-### Deployment
+## 7. Herramientas 🛠️
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+En éste proyecto fueron utilizadas varias herramientas para llegar al resultado del producto entregado.
+Las herramientas usadas fueron:
 
-### `npm run build` fails to minify
+* [Figma.](https://www.figma.com/file/05HHF7BKZ4ydeePsR6vgSm/Comida-Para-Todos?node-id=1153%3A3130) – Para el prototipado de alta fidelidad.
+* [Trello](https://trello.com/b/15mYPGhr/comida-para-todos) – Para la planificación.
+* [Firebase](https://firebase.google.com) – Para el hosting.
+* [Git y GitHub](https://github.com/xsamynox/comida-para-todos) – Para el trabajo colaborativo.
+* [Boostrap](https://getbootstrap.com/) - Para caruseles y algunos elementos simples.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## 8. Autoras ✒️
+
+Éste proyecto fue realizado en conjunto por alumnas de la generación 014 de Santiago, Chile de Laboratoria.
+
+* **Iara Carrillo** 📝✨ - UX/UI Designer
+* **Jeniffer Genoves** [GitHub](https://github.com/JenifferGenoves) :octocat: - Front-end Developer
+* **Anelisse Acevedo** [GitHub](https://github.com/aneacevedo) :octocat: - Front-end Developer
+* **Samantha Moreno** [GitHub](https://github.com/xsamynox) :octocat: - Front-end Developer

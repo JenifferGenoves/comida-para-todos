@@ -73,7 +73,7 @@ const ContactForm = () => {
                         <label htmlFor="message" className="txt-title">Comentarios</label>
                         <input
                             type="text"
-                            placeholder="Mensaje."
+                            placeholder="Mensaje"
                             className="spacectc2"
                             onChange={(e) => setMessage(e.target.value)}
                         />
@@ -83,7 +83,7 @@ const ContactForm = () => {
                         <label htmlFor="name">Nombre Completo</label>
                         <input
                             type="text"
-                            placeholder=""
+                            placeholder="Ej. Claudio Rojas Castro"
                             className="spacectc"
                             onChange={(e) => setName(e.target.value)}
                         />
@@ -93,7 +93,7 @@ const ContactForm = () => {
                         <label htmlFor="mail">Correo Electrónico</label>
                         <input
                             type="email"
-                            placeholder=""
+                            placeholder="Ej. usuario@mail.com"
                             className="spacectc"
                             onChange={(e) => setMail(e.target.value)}
                         /></div>
@@ -102,7 +102,7 @@ const ContactForm = () => {
                         <label htmlFor="phone">Teléfono</label>
                         <input
                             type="text"
-                            placeholder=""
+                            placeholder="Ej. +569XXXXXXX"
                             className="spacectc"
                             onChange={(e) => setPhone(e.target.value)}
                         />

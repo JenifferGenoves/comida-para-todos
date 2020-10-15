@@ -1,6 +1,6 @@
 import React, { useState, useRef } from "react";
 import Logo from '../images/iconos/logo2.png';
-import Search from '../images/iconos/search.png'
+import SearchBar from '../components/Searchbar.jsx';
 import { BrowserRouter as Router } from 'react-router-dom';
 import BtnDonate from './BtnDonate';
 import UpperBar from './UpperBar';
@@ -45,7 +45,7 @@ const Header = () => {
             <li><a href='/collaborators'>Colaboradores</a></li>
             <li><a href='/transparency'>Transparencia</a></li>
             <li><a href='/contact'>Contacto</a></li>
-            <img src={Search} className='facebook' alt="Buscador" />
+            <SearchBar />
             <BtnDonate />
           </ul>
         </Router>
